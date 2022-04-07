@@ -1,2 +1,2 @@
-# AdvancedNodeStarter
-Starting project for a course on Advanced Node @ Udemy
+# Redis-Mongoose
+A simple node app focusing on how to use redis as inmemory store with mongodb and mongoose
